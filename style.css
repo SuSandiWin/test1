@@ -2,3 +2,10 @@ body{
     margin:0;
     padding:0;
 }
+p{
+    color:blue;
+    background-color: burlywood;
+}
+h1{
+    font-size:10px;
+}
